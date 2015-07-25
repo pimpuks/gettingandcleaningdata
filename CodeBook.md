@@ -29,6 +29,8 @@ The first component in the column name indicate whether the feature is time-doma
 
 The range of data in these columns are -1 to 1. 
 
+For detailed description of features in cluded in the source data set, please refer to features_info.txt included in UCI HAR Dataset.zip 
+
 #### time.body.acc.mean.x/y/z
 
 The time domain measure of the mean of linear body acceleration along X, Y, Z axis respectively. The unit of measurement is standard gravity units 'g'.
