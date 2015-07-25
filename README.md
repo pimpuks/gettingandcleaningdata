@@ -69,5 +69,7 @@ Output of run_analysis.R is a **wide** tidy dataset with 68 columns whereas an o
 
 The output of run_analysis.R is saved into **tidy_data.txt** with ```write.table()``` using ```row.name=FALSE```
 
+Steps and functions used in run_analysis.R is in CodeBook.md (as per the description of class project that a code book describes the variables, the data, and any transformations or work that you performed to clean up the data)
+
 ## CodeBook.md
-CodeBook.md markdown file contains the steps of transformation and the descriptions of variables
+CodeBook.md markdown file contains the descriptions of variables in output data set and the steps of run_analysis.R
